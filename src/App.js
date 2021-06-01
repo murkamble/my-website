@@ -16,11 +16,6 @@ const App = () => {
         <td>cse.mkamble@gmail.com</td>
         </tr>
         <tr>
-        <td>Phone</td>
-        <td>:</td>
-        <td>+91 951194513</td>
-        </tr>
-        <tr>
         <td>Role</td>
         <td>:</td>
         <td>Full Stack Developer</td>
